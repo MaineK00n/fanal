@@ -9,11 +9,10 @@ require (
 	github.com/aquasecurity/go-dep-parser v0.0.0-20210905090655-b95c2c079bbb
 	github.com/aquasecurity/testdocker v0.0.0-20210911155206-e1e85f5a1516
 	github.com/aquasecurity/tfsec v0.46.0
-	github.com/aws/aws-sdk-go v1.40.37
 	github.com/docker/docker v20.10.8+incompatible
 	github.com/docker/go-connections v0.4.0
 	github.com/go-git/go-git/v5 v5.4.2
-	github.com/go-redis/redis/v8 v8.11.3
+	github.com/go-redis/redis/v8 v8.11.4
 	github.com/golang-jwt/jwt v3.2.2+incompatible
 	github.com/google/flatbuffers v1.12.1 // indirect
 	github.com/google/go-containerregistry v0.6.0
