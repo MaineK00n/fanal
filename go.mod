@@ -10,15 +10,13 @@ require (
 	github.com/aquasecurity/testdocker v0.0.0-20210911155206-e1e85f5a1516
 	github.com/aquasecurity/tfsec v0.46.0
 	github.com/aws/aws-sdk-go v1.40.37
-	github.com/docker/docker v20.10.8+incompatible
+	github.com/docker/docker v23.0.0-rc.1+incompatible
 	github.com/docker/go-connections v0.4.0
 	github.com/go-git/go-git/v5 v5.4.2
 	github.com/go-redis/redis/v8 v8.11.3
 	github.com/golang-jwt/jwt v3.2.2+incompatible
 	github.com/google/flatbuffers v1.12.1 // indirect
 	github.com/google/go-containerregistry v0.6.0
-	github.com/google/uuid v1.3.0 // indirect
-	github.com/hashicorp/errwrap v1.1.0 // indirect
 	github.com/hashicorp/go-hclog v0.15.0 // indirect
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/hashicorp/hcl v1.0.0
@@ -29,21 +27,21 @@ require (
 	github.com/knqyf263/nested v0.0.1
 	github.com/kylelemons/godebug v1.1.0
 	github.com/mitchellh/mapstructure v1.4.1
-	github.com/moby/buildkit v0.8.1
+	github.com/moby/buildkit v0.11.0
 	github.com/open-policy-agent/opa v0.32.0
 	github.com/opencontainers/go-digest v1.0.0
-	github.com/opencontainers/image-spec v1.0.2-0.20190823105129-775207bd45b6
+	github.com/opencontainers/image-spec v1.0.3-0.20220303224323-02efb9a75ee1
 	github.com/owenrumney/squealer v0.2.28 // indirect
 	github.com/saracen/walker v0.0.0-20191201085201-324a081bae7e
 	github.com/sosedoff/gitkit v0.3.0
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.8.0
 	github.com/testcontainers/testcontainers-go v0.11.1
 	github.com/tmccombs/hcl2json v0.3.1
 	github.com/urfave/cli/v2 v2.3.0
 	go.etcd.io/bbolt v1.3.6
 	go.uber.org/zap v1.19.0
-	golang.org/x/mod v0.5.0
-	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
+	golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4
+	golang.org/x/sync v0.1.0
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
+	gopkg.in/yaml.v3 v3.0.1
 )
